@@ -1,0 +1,6 @@
+.venv/
+.env
+.idea/
+__pycache__/
+копии отчетов/
+config.py
