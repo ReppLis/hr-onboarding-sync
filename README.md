@@ -1,4 +1,4 @@
-hr-onbording-sync
+hr-onboarding-sync
 =====
 Скрипт на Python, который фильтрует и переносит данные из таблицы по подбору сотрудников в таблицу, где отмечаются даты отправки сообщений новым кандидатам.
 
@@ -16,4 +16,4 @@ hr-onbording-sync
 - прошлые месяца не изменяются
 
 ### Стек
-Python, pandas, openpyxl, purest
+Python, pandas, openpyxl, putest
